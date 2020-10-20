@@ -1,0 +1,10 @@
+F:\2020-II\ARQUI Y EVO\PatronCadena\bin\Debug\PatronCadena.exe.config
+F:\2020-II\ARQUI Y EVO\PatronCadena\bin\Debug\PatronCadena.exe
+F:\2020-II\ARQUI Y EVO\PatronCadena\bin\Debug\PatronCadena.pdb
+F:\2020-II\ARQUI Y EVO\PatronCadena\obj\Debug\PatronCadena.csprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\PatronCadena\obj\Debug\PatronCadena.Form1.resources
+F:\2020-II\ARQUI Y EVO\PatronCadena\obj\Debug\PatronCadena.Properties.Resources.resources
+F:\2020-II\ARQUI Y EVO\PatronCadena\obj\Debug\PatronCadena.csproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\PatronCadena\obj\Debug\PatronCadena.csproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\PatronCadena\obj\Debug\PatronCadena.exe
+F:\2020-II\ARQUI Y EVO\PatronCadena\obj\Debug\PatronCadena.pdb
