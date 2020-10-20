@@ -1,0 +1,12 @@
+F:\2020-II\ARQUI Y EVO\PatronDecorator\bin\Debug\PatronDecorator.exe.config
+F:\2020-II\ARQUI Y EVO\PatronDecorator\bin\Debug\PatronDecorator.exe
+F:\2020-II\ARQUI Y EVO\PatronDecorator\bin\Debug\PatronDecorator.pdb
+F:\2020-II\ARQUI Y EVO\PatronDecorator\bin\Debug\PatronDecorator.xml
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.vbprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.Form1.resources
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.Resources.resources
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.vbproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.vbproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.exe
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.xml
+F:\2020-II\ARQUI Y EVO\PatronDecorator\obj\Debug\PatronDecorator.pdb
