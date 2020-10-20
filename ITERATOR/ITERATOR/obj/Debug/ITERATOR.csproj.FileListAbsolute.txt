@@ -1,0 +1,28 @@
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\bin\Debug\ITERATOR.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\bin\Debug\ITERATOR.exe
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\bin\Debug\ITERATOR.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\obj\Debug\ITERATOR.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\obj\Debug\ITERATOR.Form1.resources
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\obj\Debug\ITERATOR.Properties.Resources.resources
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\obj\Debug\ITERATOR.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\obj\Debug\ITERATOR.exe
+C:\Users\alumno\Desktop\Nueva carpeta\ITERATOR\ITERATOR\obj\Debug\ITERATOR.pdb
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\bin\Debug\ITERATOR.exe.config
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\obj\Debug\ITERATOR.exe
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\obj\Debug\ITERATOR.pdb
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\bin\Debug\ITERATOR.exe
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\bin\Debug\ITERATOR.pdb
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\obj\Debug\ITERATOR.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\obj\Debug\ITERATOR.Form1.resources
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\obj\Debug\ITERATOR.Properties.Resources.resources
+C:\Users\alumno\Desktop\ITERATOR\ITERATOR\obj\Debug\ITERATOR.csproj.GenerateResource.Cache
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\bin\Debug\ITERATOR.exe.config
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\bin\Debug\ITERATOR.exe
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\bin\Debug\ITERATOR.pdb
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\obj\Debug\ITERATOR.csprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\obj\Debug\ITERATOR.Form1.resources
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\obj\Debug\ITERATOR.Properties.Resources.resources
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\obj\Debug\ITERATOR.csproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\obj\Debug\ITERATOR.csproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\obj\Debug\ITERATOR.exe
+F:\2020-II\ARQUI Y EVO\ITERATOR\ITERATOR\obj\Debug\ITERATOR.pdb
