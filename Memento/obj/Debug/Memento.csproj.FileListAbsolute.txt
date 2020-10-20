@@ -1,0 +1,20 @@
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\bin\Debug\Memento.exe.config
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\bin\Debug\Memento.exe
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\bin\Debug\Memento.pdb
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\obj\Debug\Memento.Form1.resources
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\obj\Debug\Memento.Properties.Resources.resources
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\obj\Debug\Memento.csproj.GenerateResource.cache
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\obj\Debug\Memento.exe
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Memento\obj\Debug\Memento.pdb
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\bin\Debug\Memento.exe.config
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\bin\Debug\Memento.exe
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\bin\Debug\Memento.pdb
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\obj\Debug\Memento.csprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\obj\Debug\Memento.Form1.resources
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\obj\Debug\Memento.Properties.Resources.resources
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\obj\Debug\Memento.csproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\obj\Debug\Memento.exe
+F:\2020-II\ARQUI Y EVO\Cmichi_1\Memento Mío\obj\Debug\Memento.pdb
