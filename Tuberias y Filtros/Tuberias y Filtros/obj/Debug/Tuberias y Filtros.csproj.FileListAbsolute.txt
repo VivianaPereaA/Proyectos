@@ -1,0 +1,30 @@
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.exe.config
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.exe
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.pdb
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csprojAssemblyReference.cache
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias_y_Filtros.Form1.resources
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias_y_Filtros.Properties.Resources.resources
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csproj.GenerateResource.cache
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csproj.CoreCompileInputs.cache
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.exe
+C:\Users\famla_000\Documents\Universidad\Ciclo7\ArquiyEvo\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.pdb
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.exe.config
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.exe
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.pdb
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias_y_Filtros.Form1.resources
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias_y_Filtros.Properties.Resources.resources
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.exe
+F:\2020-II\ARQUI Y EVO\Cmichi_4\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.pdb
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.exe.config
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.exe
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\bin\Debug\Tuberias y Filtros.pdb
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias_y_Filtros.Form1.resources
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias_y_Filtros.Properties.Resources.resources
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.csproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.exe
+F:\2020-II\ARQUI Y EVO\Tuberias y Filtros\Tuberias y Filtros\obj\Debug\Tuberias y Filtros.pdb
