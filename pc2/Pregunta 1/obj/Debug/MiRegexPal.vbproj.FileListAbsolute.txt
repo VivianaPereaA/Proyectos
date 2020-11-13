@@ -1,0 +1,24 @@
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\bin\Debug\MiRegexPal.exe.config
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\bin\Debug\MiRegexPal.exe
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\bin\Debug\MiRegexPal.pdb
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\bin\Debug\MiRegexPal.xml
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.vbprojAssemblyReference.cache
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.Form1.resources
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.Resources.resources
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.vbproj.GenerateResource.cache
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.vbproj.CoreCompileInputs.cache
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.exe
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.xml
+C:\Users\CRISTHIAN\Downloads\MiRegexPal\obj\Debug\MiRegexPal.pdb
+F:\2020-II\ARQUI Y EVO\MiRegexPal\bin\Debug\MiRegexPal.exe.config
+F:\2020-II\ARQUI Y EVO\MiRegexPal\bin\Debug\MiRegexPal.exe
+F:\2020-II\ARQUI Y EVO\MiRegexPal\bin\Debug\MiRegexPal.pdb
+F:\2020-II\ARQUI Y EVO\MiRegexPal\bin\Debug\MiRegexPal.xml
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.vbprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.Form1.resources
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.Resources.resources
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.vbproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.vbproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.exe
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.xml
+F:\2020-II\ARQUI Y EVO\MiRegexPal\obj\Debug\MiRegexPal.pdb

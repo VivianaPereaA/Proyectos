@@ -1,0 +1,12 @@
+F:\2020-II\ARQUI Y EVO\PatronAdapter\bin\Debug\PatronAdapter.exe.config
+F:\2020-II\ARQUI Y EVO\PatronAdapter\bin\Debug\PatronAdapter.exe
+F:\2020-II\ARQUI Y EVO\PatronAdapter\bin\Debug\PatronAdapter.pdb
+F:\2020-II\ARQUI Y EVO\PatronAdapter\bin\Debug\PatronAdapter.xml
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.vbprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.Form1.resources
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.Resources.resources
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.vbproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.vbproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.exe
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.xml
+F:\2020-II\ARQUI Y EVO\PatronAdapter\obj\Debug\PatronAdapter.pdb
