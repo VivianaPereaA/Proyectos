@@ -1,0 +1,12 @@
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\bin\Debug\NorthwindBoton.exe.config
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\bin\Debug\NorthwindBoton.exe
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\bin\Debug\NorthwindBoton.pdb
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\bin\Debug\NorthwindBoton.xml
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.vbprojAssemblyReference.cache
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.Form1.resources
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.Resources.resources
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.vbproj.GenerateResource.cache
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.vbproj.CoreCompileInputs.cache
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.exe
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.xml
+F:\2020-II\ARQUI Y EVO\NorthwindBoton\obj\Debug\NorthwindBoton.pdb
